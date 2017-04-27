@@ -8,7 +8,7 @@ It is a Ubuntu zesty base image with x11vnc and novnc installed. It is intended 
 
 Dockerfile
 ```
-FROM rigormortiz/ubuntu_novnc:latest
+FROM rigormortiz/ubuntu_novnc:zesty
 
 ...
 ```
