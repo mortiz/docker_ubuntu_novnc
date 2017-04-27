@@ -2,7 +2,7 @@
 
 ## What is docker_ubuntu_novnc anyway?
 
-It is a Ubuntu zesty base image with xllvnc and novnc installed. It is intended to act as the base image for a full desktop environment like Mate, KDE, xfce, i3, etc. Please see my other repositories for examples.
+It is a Ubuntu zesty base image with x11vnc and novnc installed. It is intended to act as the base image for a full desktop environment like Mate, KDE, xfce, i3, etc. Please see my other repositories for examples.
 
 ## Usage
 
